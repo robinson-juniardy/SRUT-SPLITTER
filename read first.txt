@@ -1,0 +1,6 @@
+DEPENDENCY
+- Software ini menggunakan JDK (Java) versi 21
+- Download Zulu OpenJDK di : https://www.azul.com/downloads/?package=jdk#zulu
+- Edit System Environment : Path -> tambahkan C:\Program Files\Zulu\zulu-21\bin
+- Tambahkan Variable Baru dengan nama -> JAVA_HOME -> isi nilai variable -> C:\Program Files\Zulu\zulu-21
+- Edit System Environment : Path -> tambahkan -> %JAVA_HOME%\bin
